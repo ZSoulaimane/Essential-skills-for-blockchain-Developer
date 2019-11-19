@@ -3,6 +3,7 @@
 ### Week 1 
 
 * Learn NodeJS Mangodb Express : https://www.udemy.com/course/understand-nodejs/
+* Tron Blockchain (introduction) : https://medium.com/tron-foundation/how-to-build-a-tron-dapp-5d377cd12061
 * Tron Blockchain : https://www.youtube.com/watch?v=1z5M12tcSdQ&list=PLL5pYVd8AWtRDnTTKWzPpFcBT9nrPCQt6
 
 ### Week 2 
